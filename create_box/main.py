@@ -1,5 +1,6 @@
 """This is the entry point of the program."""
-#me and kevin did this together but i wanted to go through the whole process of forking it, cloning it, creating a workspace, 
+#me and kevin did this together but i wanted to go through the whole process of forking it, cloning it, creating a workspace, setting up the virtualenv,
+# and then commiting, and pushing changes back to my github. I also added an alternate way we could've done the project with a nested for loops instead of just one.
 
 def create_box(height, width, character):
     box= ''
